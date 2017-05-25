@@ -37,7 +37,7 @@ F=inputtemputer*1.8+32
 print(" 现在的华氏温度是{}".format(F))*  
 
 
->>> data = ("shiyanlou", "China", "Python")  #元组拆封与元组封装
+>>> data = ("shiyanlou", "China", "Python")  #元组拆封与元组封装  
 >>> name, country, language = data  
 >>> name  
 'shiyanlou'  
